@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+ * Author: Jordan Taylor
+ * Date: 02 / 11 / 2021
+ * Description: Tests bear creations (toy and real) based on an Adaptor Pattern UML.
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
